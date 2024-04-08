@@ -1,0 +1,4 @@
+Sitemap: https://activeservers.in/sitemap.xml
+User-Agent: *
+Disallow: 
+Allow: /

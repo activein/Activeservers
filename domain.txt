@@ -1,0 +1,135 @@
+<table data-wow-delay="0.3s" id="tld-table" class="tablesorter responsive wow fadeInUp tablesaw tablesaw-stack" data-tablesaw-mode="stack">
+                        <thead>
+                            <tr>
+                                <th>Domain Name</th>
+                                <th>REGISTRATION/YEAR</th>
+                                <th>RENEWAL/YEAR*</th>
+                                <th>TRANSFER/YEAR</th>
+								<th>BOOK NOW</th>
+								<th>TRANSFER NOW</th>
+                                <th>REGISTRATION PERIOD</th>
+                                <th>GRACE PERIOD</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+							<tr>
+                                <td>XYZ</td>
+                                <td>850INR</td>
+                                <td>850INR</td>
+                                <td>850INR</td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=register">BOOK NOW</a></td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=transfer">TRANSFER NOW</a></td>
+                                <td>1-10 yrs</td>
+                                <td>15 days</td>
+                                
+                            </tr>
+							<tr>
+                                <td>MONSTER</td>
+                                <td>850INR</td>
+                                <td>850INR</td>
+                                <td>850INR</td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=register">BOOK NOW</a></td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=transfer">TRANSFER NOW</a></td>
+                                <td>1-10 yrs</td>
+                                <td>15 days</td>
+                                
+                            </tr>
+							<tr>
+<td>IN</td>
+<td>465INR</td>
+<td>465INR</td>
+<td>465INR</td>
+<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=register">BOOK NOW</a></td>
+<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=transfer">TRANSFER NOW</a></td>
+<td>1-10 yrs</td>
+<td>15 days</td>
+</tr>
+<tr>
+<td>CO.IN</td>
+<td>435INR</td>
+<td>435INR</td>
+<td>435INR</td>
+<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=register">BOOK NOW</a></td>
+ <td><a href="https://clients.activeservers.in/cart.php?a=add&domain=transfer">TRANSFER NOW</a></td>
+<td>1-10 yrs</td>
+<td>15 days</td>
+</tr>
+                            <tr>
+                                <td>COM</td>
+                                <td>680INR</td>
+                                <td>680INR</td>
+                                <td>680INR</td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=register">BOOK NOW</a></td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=transfer">TRANSFER NOW</a></td>
+                                <td>1-10 yrs</td>
+                                <td>15 days</td>
+                                
+                            </tr>
+                            <tr>
+                                <td>NET</td>
+                                <td>800INR</td>
+                                <td>800INR</td>
+                                <td>800INR</td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=register">BOOK NOW</a></td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=transfer">TRANSFER NOW</a></td>
+                                <td>1-10 yrs</td>
+                                <td>15 days</td>
+                               
+                            </tr>
+							<tr>
+                                <td>NET.IN</td>
+                                <td>435INR</td>
+                                <td>435INR</td>
+                                <td>435INR</td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=register">BOOK NOW</a></td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=transfer">TRANSFER NOW</a></td>
+                                <td>1-10 yrs</td>
+                                <td>15 days</td>
+                               
+                            </tr>
+                            <tr>
+                                <td>ORG</td>
+                                <td>980INR</td>
+                                <td>980INR</td>
+                                <td>980INR</td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=register">BOOK NOW</a></td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=transfer">TRANSFER NOW</a></td>
+                                <td>1-10 yrs</td>
+                                <td>15 days</td>
+                                
+                            </tr>
+							<tr>
+                                <td>ORG.IN</td>
+                                <td>435INR</td>
+                                <td>435INR</td>
+                                <td>435INR</td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=register">BOOK NOW</a></td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=transfer">TRANSFER NOW</a></td>
+                                <td>1-10 yrs</td>
+                                <td>15 days</td>
+                               
+                            </tr>
+                            <tr>
+                                <td>UK</td>
+                                <td>642INR</td>
+                                <td>N/A</td>
+                                <td>642INR</td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=register">BOOK NOW</a></td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=transfer">TRANSFER NOW</a></td>
+                                <td>1-10 yrs</td>
+                                <td>15 days</td>
+                               
+                            </tr>
+                            <tr>
+                                <td>US</td>
+                                <td>580INR</td>
+                                <td>580INR</td>
+                                <td>580INR</td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=register">BOOK NOW</a></td>
+								<td><a href="https://clients.activeservers.in/cart.php?a=add&domain=transfer">TRANSFER NOW</a></td>
+                                <td>1-10 yrs</td>
+                                <td>15 days</td>
+                                
+                            </tr>
+                        </tbody>
+                    </table>

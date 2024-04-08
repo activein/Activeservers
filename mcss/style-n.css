@@ -1,0 +1,241 @@
+	/*CUSTOM CSS ====*/
+	
+	.black{
+background-color: #2e2e2e!important;
+}
+
+.sf-menu li a {
+    border-right: 0px solid #e8e8e8!important;
+  color: #ffffff;
+}
+
+.sf-menu li:hover a, .sf-menu li.sfHover a, .sf-menu li.current a {
+    background: #fff;
+    color: #2e2e2e;
+}
+
+.sf-menu {
+    box-shadow: 0 0 5px 0 rgb(0 0 0 / 26%);
+}
+
+.logo {
+    padding-bottom: 10px;
+}
+
+.top-b{
+    border-bottom: 1px solid #e7e6e6;
+}
+
+.top-r{
+margin-left: -10px!important;
+    margin-right: -10px!important;	
+}
+
+.top-pad{
+    padding: 8px 0;
+}
+	
+	 .dark-bg-n{
+   background: #007a6a;
+   }
+  
+   
+   
+   
+   .e-plan{
+       border-left: 1px solid #d5d5d5;
+    padding-left: 40px;
+   }
+   
+   .pricingtables.default .panel-heading h3 {
+    color: #fff;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    margin: 0;
+    padding: 12px 0;
+    font-weight: 600;
+}
+   
+   .e-btn {
+       background-color: #191919 !important;
+	   color: #ffffff !important;
+   }
+   
+   
+   .e-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+   
+   .blue-border {
+   border-color: #007bff!important;
+   }
+   
+   .text-left p {
+    text-align: left !important;
+}
+   
+   .ques1 {
+         display: flex;
+    justify-content: center;
+   }
+   
+   .ques2 {
+       background: #000000;
+    box-shadow: 0 0 15px rgb(67 67 67 / 20%);
+    padding: 25px 70px;
+   }
+   
+ .b-right {
+   border-right: 2px solid #6cd0c3 !important;
+   padding-right: 14px !important;
+   padding-left: 14px !important;
+   }
+   
+.h-pr {
+    display: flex;
+}
+  
+    .white {
+   color: #ffffff;
+   }
+   
+   .h-dark-bg {
+    background: #0c0c0c !important;
+	color: #b1b1b1;
+}
+   
+   
+   .border-r {
+    border-radius: 20px;
+}
+
+   .border-r-12 {
+    border-radius: 12px;
+}
+										
+										.pricingtables h4 {
+    letter-spacing: 0em;
+}
+										
+					.pr {		
+font-family: Segoe UI !important;					
+	font-size: 0.516667em!important;
+	color: #6cd0c3!important;
+	line-height: 34px!important;
+	margin: 0!important;
+    padding: 0!important;
+    border: 0!important;
+    vertical-align: baseline!important;
+    text-decoration: none!important;
+    font-weight: 500!important;
+}
+
+
+.prsu {	
+font-family: Segoe UI !important;					
+	font-size: 0.416667em!important;
+	color: #6cd0c3!important;
+	line-height: 34px!important;
+	margin: 0!important;
+    padding: 0!important;
+    border: 0!important;
+    vertical-align: baseline!important;
+    text-decoration: none!important;
+    font-weight: 400!important;
+	letter-spacing: 0.01em!important;
+}
+													
+			
+.pricingtables ul li {
+
+    padding: 20px 30px;
+}
+			
+										
+										.de {
+font-weight: 400!important;
+    font-size: 2.0rem!important;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+	
+}
+										
+										
+.pricingtables .panel-body span.per {
+    background: #222222;
+    padding: 5px 10px 2px;
+    background: #f0f0f0;
+    padding: 5px 10px 5px;
+    color: #000;
+    font-size: 1.4rem!important;
+}
+
+.badge1 {
+    display: inline-block;
+    min-width: 10px;
+    padding: 10px 10px;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-color: #ff4545;
+    border-radius: 100px!important;
+}
+
+.n {
+padding-top: 0px!important; 
+     padding-bottom: 10px!important; 
+    border-bottom: 1px solid #383838!important;
+}
+
+.pricingtables .panel-heading {
+    background: #000000!important;
+    border: 0;
+    border-radius: 0;
+    filter: none !important;
+}
+
+.panel-heading {
+    /* padding: 10px 15px; */
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+.pricingtables .panel-body {
+    background: #282828;
+    margin: 0;
+   /*padding: 0px 0 0px; */
+}
+
+.n-hr {
+    width: 60px;
+    height: 2px;
+    border: none;
+    transition: all .5s ease 0s;
+    background: #007a6a;
+    margin: 5px 0;
+    text-align: left;
+}
+
+.n-hr-b {
+    width: 60px;
+    height: 6px;
+    border: none;
+    transition: all .5s ease 0s;
+    background: #007a6a;
+    margin: 5px 0;
+    text-align: left;
+	}
+
+	
+	/* CUSTOM CSS =====*/

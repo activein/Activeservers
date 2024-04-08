@@ -1,0 +1,580 @@
+<%@ Master Language="C#" AutoEventWireup="true"  CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+<!doctype html>
+<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Active Servers</title>
+	<link rel="alternate" href="https://activeservers.in" hreflang="en" />
+    <link rel="shortcut icon" href="images/icons/favicon.png" />
+
+
+
+ <link defer href='https://fonts.googleapis.com/css?family=Hind:400,300,600,500,700&amp;subset=latin,latin-ext&display=swap' media="print" rel='stylesheet' type='text/css' />
+    <link defer href='https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap' rel='stylesheet' type='text/css'>
+
+    <meta name="google-site-verification" content="V0bIWltJghJEXLA-YoHj58GsCKlPiJXV1rAWF-hguu4" />
+    
+	<!-- Bootstrap & Styles -->
+    <link defer href="https://activeservers.in/css/bootstrap.css" rel="stylesheet" />
+    <link defer href="https://activeservers.in/css/bootstrap-theme.css" rel="stylesheet" />
+    <link async href="https://activeservers.in/css/block_grid_bootstrap.css" rel="stylesheet" />
+    <link async href="https://activeservers.in/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="https://activeservers.in/css/owl.carousel.css" rel="stylesheet" />
+    <link href="https://activeservers.in/css/owl.theme.css"  rel="stylesheet" />
+    <link async href="https://activeservers.in/css/animate.min.css"  rel="stylesheet" />
+    <link async href="https://activeservers.in/css/jquery.circliful.css"  rel="stylesheet" />
+    <link async href="https://activeservers.in/css/slicknav.css" rel="stylesheet" />
+    <link async href="https://activeservers.in/style.css"  rel="stylesheet" />
+    <link rel="stylesheet" href="https://activeservers.in/css/style.css">
+<link rel="alternate" href="https://eu.activeservers.in" hreflang="en-gb" />
+<link rel="alternate" href="https://usa.activeservers.in" hreflang="en-us" />
+<link rel="alternate" href="https://activeservers.in/" hreflang="en-in" />
+<link rel="alternate" href="https://activeservers.in/" hreflang="en" />
+
+<link rel="alternate" hreflang="en-AL" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-AD" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-AM" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-AT" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-BY" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-BE" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-BA" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-BG" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-CH" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-CY" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-CZ" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-DE" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-DK" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-EE" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-ES" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-FO" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-FI" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-FR" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-GB" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-GE" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-GI" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-GR" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-HU" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-HR" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-IE" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-IS" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-IT" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-LT" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-LU" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-LV" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-MC" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-MK" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-MT" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-NO" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-NL" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-PO" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-PT" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-RO" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-RU" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-SE" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-SI" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-SK" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-SM" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-TR" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-UA" href="http://eu.activeservers.in">
+<link rel="alternate" hreflang="en-VA" href="http://eu.activeservers.in">
+
+	<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '384804145733629');
+  fbq('track', 'PageView');
+</script>
+<noscript><img alt="hosting" height="1" width="1" alt="ActiveServers" style="display:none"
+ async src="https://www.facebook.com/tr?id=384804145733629&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Facebook Pixel Code --><script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '849553112468270'); fbq('track', 'PageView');</script><noscript> <img alt="besthosting" height="1" width="1" src="https://www.facebook.com/tr?id=849553112468270&ev=PageView&noscript=1"/></noscript><!-- End Facebook Pixel Code -->
+
+
+
+
+    <meta name="Robots" content="all" />
+<meta name="GOOGLEBOT" content="INDEX, FOLLOW" />
+<meta name="Yahoobot" content="Index, Follow" />
+<meta name="MSNbot" content="index, follow" />
+<meta name="allow-search" content="yes" />
+<meta name="robots" content="index, follow" />
+<meta name="rating" content="General" />
+<meta name="distribution" content="global" />
+<meta name="author" content="Active Servers" />
+<meta name="copyright" content="https://www.activeservers.in" />
+<meta name="document-rating" content="Safe for Kids" />
+<meta name="geo.region" content="IN-GJ" />
+<meta name="publisher" content="Active Servers" />
+<meta name="document-type" content="Public" />
+<script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-65042919-1', 'auto');
+        ga('send', 'pageview');
+</script>
+
+    <!--Start of Tawk.to Script-->
+<script defer type="text/javascript">
+    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+    (function () {
+        var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/55e1e21955d187621053c192/default';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+</script>
+<!--End of Tawk.to Script-->
+     <!-- Global site tag (gtag.js) - Google Ads: 947260517 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-947260517"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-947260517');
+</script>
+<!-- Event snippet for Website traffic conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-947260517/wGscCKXPkOoBEOWY2MMD'});
+</script>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+	<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+</style>
+</head>
+<body>
+<!-- Trigger/Open The Modal -->
+
+<button type="button" class="btn btn" id="myBtn"><img src="../images/india-flag.png" loading="lazy" width="20" alt="India" /> <b>Choose your Currency: INR</b></button>
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>	
+	<h3 class="feature wow zoomIn">Choose your Currency</h3><br>
+    <h5><a href="https://activeservers.in" style="color:#808080"><img src="../images/india-flag.png" loading="lazy" width="20" alt="India" /> INDIA (INR &#8377;)</a></h5><br>
+	<h5><a href="https://usa.activeservers.in" style="color:#808080"><img src="../images/flag-usa.png" loading="lazy" width="20" alt="USA" /> USA (Dollar &#36;)</a></h5><br>
+	<h5><a href="https://eu.activeservers.in" style="color:#808080"><img src="../images/europe-flag.png" loading="lazy" width="20" alt="Europe" /> EUROPE (EUR &#8364;)</a></h5><br>
+	          
+  </div>
+
+</div>
+
+<script>
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
+    <form id="form1" runat="server">
+    <div class="top">
+        <div class="row">
+            <div class="col-sm-3">
+                <div class="logo">
+                    <a href="https://activeservers.in"><img  async src="../images/logo.png" alt="ActiveServers" />
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-9">
+               
+
+                <nav id="desktop-menu">
+                    <ul class="sf-menu" id="navigation">
+                        <li class="current"><a href="https://activeservers.in/">Home</a>
+                            <%--<ul>
+                                <li><a href="https://activeservers.in/">Image Slider</a>
+                                </li>
+                               
+                            </ul>--%>
+                        </li>
+                        <li><a href="#">Hosting</a>
+                            <ul>
+                                <li><a  href="../shared-hosting/windows-hosting.aspx">Windows Hosting</a>
+                                </li>
+                                <li><a  href="../shared-hosting/linux-hosting.aspx">Linux Hosting</a>
+                             
+                                </li>
+                                <li><a  href="https://activeservers.in/shared-hosting/cloudhosting.aspx">Cloud Hosting</a>
+                                </li>
+                               
+                                <li><a  href="../shared-hosting/ecommerce-windowshosting.aspx">Ecommerce Windows Hosting</a>
+                                </li>
+                                     <li><a  href="../shared-hosting/wordpress-hosting.aspx">WordPress Hosting</a>
+                                </li>
+                                 <li><a  href="../shared-hosting/magento-hosting.aspx">Magento Hosting</a>
+                                </li>
+                                 <li><a  href="../shared-hosting/reseller-windows-hosting.aspx">Reseller Windows Hosting</a>
+                                </li>
+                                <li><a href="../shared-hosting/reseller-linux-hosting.aspx">Reseller Linux Hosting</a>
+                             
+                                </li>
+								
+								 <li><a href="../email/email-hosting.aspx">Email Hosting</a>
+                                </li>
+                                 </li>
+                               
+                            </ul>
+                     </li>
+                      <li><a href="/hosting-partner.aspx">Partner</a>
+                           
+                        </li>
+
+                         <li><a href="#">VPS</a>
+
+ <ul>
+                                <li><a href="../vps/windows.aspx">Windows VPS</a>
+                                </li>
+                                <li><a href="../vps/linux.aspx">Linux VPS</a>
+                                </li>
+								 <li><a href="../vps/indain-cloud-server.aspx">Indain Cloud Server</a>
+                                </li>
+
+                            </ul>
+
+                        </li>
+
+                         <li><a href="#">Security</a>
+
+                                <ul>
+                           
+                                      <li><a href="../security/ssl.aspx">SSL</a>
+                                </li>
+                                  <li><a href="https://activeservers.in/security/backup.aspx">Website Backup</a>
+                                </li>  
+								
+								 <li><a href="https://activeservers.in/security/serversolutions.aspx">Server Solutions</a>
+                                </li>  
+
+                            </ul>
+
+                        </li>
+
+                        <li><a href="/domains.aspx">Domain</a>
+                           
+                        </li>
+                       
+                        <li><a href="../website/website-development.aspx">Services</a>
+
+                             <ul>
+                                <li><a  href="../website/Website-development.aspx">Website dev.</a>
+                                </li>
+                                <li><a  href="../website/contentwritting.aspx">Content Writing</a>
+                               <li><a  href="../website/seo.aspx">SEO</a>
+                                </li>
+                                <li><a  href="../website/smo.aspx">SMO</a>
+                               
+                                
+                            </ul>
+
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+        
+    <!--  Footer -->
+    <div class="social">
+        <div class="row">
+
+            <div class="col-sm-6">
+                <ul>
+                    <li><a href="https://www.facebook.com/ActiveserversIndia/" title="facebook" rel="noopener" target="_blank"><i class="fa fa-facebook"></i></a>
+                    </li>
+                    <li><a href="https://twitter.com/Activeserver_ho" title="twitter" rel="noopener" target="_blank"><i class="fa fa-twitter"></i></a>
+                    </li>
+					<li><a href="https://www.linkedin.com/company/activeservers/" title="linkedin" rel="noopener" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </li>
+                   <li><a href="https://join.skype.com/invite/zI79QIHLiHl8" title="skype" rel="noopener" target="_blank"><i class="fa fa-skype"></i></a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="col-sm-6">
+
+                <div id="mc_embed_signup">
+                    <form class="form-inline validate" action="https://www.slideshare.net/ActiveServers/web-hosting-tips-238464551" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" rel="noopener" target="_blank" novalidate>
+                        <div class="row no-gutter">
+                            <div class="col-sm-9">
+                               <h4>Web Hosting Tips &ensp; </h4>
+                                <div style="position: absolute; left: -5000px;">
+                                    <input type="text" name="b_b5638e105dac814ad84960d90_9345afa0aa" tabindex="-1" value="">
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+							<a href="https://www.slideshare.net/ActiveServers/web-hosting-tips-238464551" class="btn btn-default no-radius btn-lg">View Now</a>
+                            </div>
+
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <section class="footer">
+        <div class="row">
+            <div class="col-sm-3">
+                <h4>Choose.</h4>
+                <ul>
+                    <li><a href="../shared-hosting/linux-hosting.aspx">Shared Web Hosting</a>
+                    </li>
+                    <li><a href="../shared-hosting/reseller-linux-hosting.aspx">Reseller Hosting</a>
+                    </li>
+                    <li><a href="../vps/windows.aspx">Cloud Managed VPS</a>
+                    </li>
+                    <li><a href="../email/email-hosting.aspx">Email Hosting</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-3">
+                <h4>Get Support.</h4>
+                <ul>
+                    <li><a href="https://clients.activeservers.in/contact.php">Contact Us</a>
+                    </li>
+                    <li><a href="https://activeservers.in/termsncondition.aspx">Terms</a>
+                    </li>
+                    <li><a href="https://clients.activeservers.in">Submit a Ticket</a>
+                    </li>
+                    <li><a href="https://clients.activeservers.in/index.php?rp=/announcements">Announcements</a>
+                    </li>
+					<li><a href="/about_us.aspx">About Us</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-3">
+                <h4>Start.</h4>
+                <ul>
+                     <li><a href="../shared-hosting/wordpress-hosting.aspx">WordPress Hosting</a>
+                    </li>
+                    <li><a href="https://activeservers.in/vps/linux.aspx">Linux VPS</a>
+                    </li>
+                    <li><a href="https://activeservers.in/vps/windows.aspx">Windows VPS</a>
+                    </li>
+                    <li><a href="/domains.aspx">Domain Booking</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-3">
+                <h4>Ask.</h4>
+                <ul class="questions">
+                    <li><a href="#"><i class="fa fa-comment"></i> LIVE CHAT at site</a>
+                    </li>
+                    <li><i class="fa fa-phone"></i> +91 7359158072</li>
+                    <li><a href="mailto: support@activeservers.in"><i class="fa fa-envelope"></i>Email Support </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+	
+        <a href="#top" id="back-to-top"><i class="fa fa-angle-up"></i></a>
+
+   <script src="https://activeservers.in/js/cookie.notice.js"></script>
+    <script src="https://activeservers.in/js/jquery-ui.js" defer></script>
+
+
+        <script  src="https://activeservers.in/js/contact-script.js" defer></script>
+        <script  src="https://activeservers.in/js/jquery.responsiveTabs.js"></script>
+        <script  src="https://activeservers.in/js/jquery.tablesorter.min.js" defer></script>
+        <script  src="https://activeservers.in/js/tablesaw-init.js"></script>
+        <script  src="https://activeservers.in/js/tablesaw.stackonly.js" defer></script>
+		
+		
+		
+		
+		
+     <script>
+    /* Home Page Slider
+   ========================================================================== */
+    $(document).ready(function() {
+
+
+    var sync1 = $("#mainslider");
+    var sync2 = $("#mainslider-nav");
+
+    sync1.owlCarousel({
+    singleItem : true,
+    slideSpeed : 1000,
+    paginationSpeed: 800,
+    navigation: false,
+    pagination:false,
+    autoPlay:7500,
+    afterAction : syncPosition,
+    responsiveRefreshRate : 200,
+    });
+
+    sync2.owlCarousel({
+    items : 4,
+    itemsDesktop : [1199,4],
+    itemsDesktopSmall : [979,4],
+    itemsTablet : [768,4],
+    itemsMobile : [479,2],
+    pagination:false,
+    responsiveRefreshRate : 100,
+    afterInit : function(el){
+    el.find(".owl-item").eq(0).addClass("synced");
+    }
+    });
+
+    function syncPosition(el){
+    var current = this.currentItem;
+    $("#mainslider-nav")
+    .find(".owl-item")
+    .removeClass("synced")
+    .eq(current)
+    .addClass("synced")
+    if($("#mainslider-nav").data("owlCarousel") !== undefined){
+    center(current)
+    }
+    }
+
+    $("#mainslider-nav").on("click", ".owl-item", function(e){
+    e.preventDefault();
+    var number = $(this).data("owlItem");
+    sync1.trigger("owl.goTo",number);
+    });
+
+    function center(number){
+    var sync2visible = sync2.data("owlCarousel").owl.visibleItems;
+    var num = number;
+    var found = false;
+    for(var i in sync2visible){
+    if(num === sync2visible[i]){
+    var found = true;
+    }
+    }
+
+    if(found===false){
+    if(num>sync2visible[sync2visible.length-1]){
+    sync2.trigger("owl.goTo", num - sync2visible.length+2)
+    }else{
+    if(num - 1 === -1){
+    num = 0;
+    }
+    sync2.trigger("owl.goTo", num);
+    }
+    } else if(num === sync2visible[sync2visible.length-1]){
+    sync2.trigger("owl.goTo", sync2visible[1])
+    } else if(num === sync2visible[0]){
+    sync2.trigger("owl.goTo", num-1)
+    }
+    }
+
+    });
+
+/* Τestimonials
+   ========================================================================== */
+ $(document).ready(function() {
+        $("#testimonials-carousel").owlCarousel({
+            items: 1,
+            autoPlay: 5000,
+            itemsDesktop: [1199, 1],
+            itemsDesktopSmall: [979, 1],
+            itemsTablet: [768, 1]
+        });
+    });
+
+    // ______________ STATS
+jQuery(document).ready(function() {
+$('.statistics').waypoint(function() {
+
+ $('#myStat1').circliful();
+ $('#myStat2').circliful();
+ $('#myStat3').circliful();
+ $('#myStat4').circliful();
+
+}, { offset: 800, triggerOnce: true });
+});
+
+    </script>
+    </form>
+	
+</body>
+</html>
