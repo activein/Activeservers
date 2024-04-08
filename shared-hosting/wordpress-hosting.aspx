@@ -1,7 +1,7 @@
 <%@ Page Title="WordPress Hosting India | Secure | Fully Managed | ActiveServers" 
      MetaDescription="Wordpress hosting by Active Server provides Auto-Setup, Auto-Updatesm, Auto-Caching, Blazing-Fast Load Time, Instant Scaling features. Same price on sign up and renewal"
 
-     MetaKeywords="WordPress, wordpress hosting India, WordPress Hosting, best wordpress hosting, wordpress domain and hosting, wordpress server, best wordpress hosting india, wordpress hosting plans india, WordPress Web Hosting, wordpress hosting services, high performance wordpress hosting, worpress plans, best managed wordpress hosting"
+     MetaKeywords="WordPress, wordpress hostings India, WordPress Hosting, best wordpress hosting, wordpress domain and hosting, wordpress server, best wordpress hosting india, wordpress hosting plans india, WordPress Web Hosting, wordpress hosting services, high performance wordpress hosting, worpress plans, best managed wordpress hosting"
      Language="VB" MasterPageFile="~/MasterPage.master" AutoEventWireup="false" CodeFile="wordpress-hosting.aspx.vb" Inherits="shared_hosting_wordpress_hosting" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
@@ -811,7 +811,7 @@ When you host your websites on our server, we make sure you have a great time. O
 
                         <div id="collapse4" class="panel-collapse collapse">
                             <div class="panel-body">
-                                <p>Managed WordPress hosting is the web hosting provider that will take care of the back-end maintenance for you. It is the best WordPress hosting because it manages update management, technical adjustments, and server optimization. Choosing our WordPress domain and hosting will help build your websitea€?s content and increase traffic.</p>
+                                <p>Managed WordPress hosting is the web hosting provider that will take care of the back-end maintenance for you. It is the best WordPress hosting because it manages update management, technical adjustments, and server optimization. Choosing our WordPress domain and hosting will help build your websiteaÂ€?s content and increase traffic.</p>
 
                             </div>
                         </div>
@@ -844,7 +844,7 @@ When you host your websites on our server, we make sure you have a great time. O
                                     <br/>   3. Now, you can install the desired??WordPress??theme and set up plugins.
                                     <br/>   4. The last step is to create and publish your website pages.
                                 
-                                    <br/> Thata€?s how your WordPress website is live now.
+                                    <br/> ThataÂ€?s how your WordPress website is live now.
                                 </p>
 
                             </div>
@@ -956,7 +956,7 @@ When you host your websites on our server, we make sure you have a great time. O
 <a href="https://www.babataschens.de/Balenciaga-de">fake Balenciaga</a>
 <a href="https://www.babataschens.de/Bottega-Veneta-de">fake Bottega Veneta</a>
 <a href="https://www.babataschens.de/Bvlgari-de">fake Bvlgari</a>
-<a href="https://www.babataschens.de/Celine-de">fake Céline</a>
+<a href="https://www.babataschens.de/Celine-de">fake CÃ©line</a>
 <a href="https://www.babataschens.de/Chloe-de">fake Chloe</a>
 <a href="https://www.babataschens.de/Givenchy-de">fake Givenchy</a>
 <a href="https://www.babataschens.de/Miu-Miu-de">fake Miu Miu</a>
