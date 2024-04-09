@@ -129,12 +129,12 @@
                     </div>
                     <div class="panel-body text-center">
                         <div class="monthprice">
-                            <h4>&#8377;150</h4>
+                            <h4>₹150</h4>
                             <span class="per">PER MONTH</span>
                         </div>
 
                         <div class="twoyearprice">
-                            <h4>&#8377;1050</h4>
+                            <h4>₹1050</h4>
                             <span class="per">PER YEARS</span>
                         </div>
                       
@@ -167,11 +167,11 @@
                     </div>
                     <div class="panel-body text-center">
                         <div class="monthprice">
-                            <h4>&#8377;350</h4>
+                            <h4>₹350</h4>
                             <span class="per">PER MONTH</span>
                         </div>
                         <div class="twoyearprice">
-                            <h4>&#8377;2150</h4>
+                            <h4>₹2150</h4>
                             <span class="per">PER YEARS</span>
                         </div>
                     </div>
@@ -202,12 +202,12 @@
                     </div>
                     <div class="panel-body text-center">
                         <div class="monthprice">
-                            <h4>&#8377;400</h4>
+                            <h4>₹400</h4>
                             <span class="per">PER MONTH</span>
                         </div>
 
                         <div class="twoyearprice">
-                            <h4>&#8377;3500</h4>
+                            <h4>₹3500</h4>
                             <span class="per">PER YEARS</span>
                         </div>
                        
