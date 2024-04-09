@@ -134,7 +134,7 @@
                         </div>
 
                         <div class="twoyearprice">
-                            <h4>₹1050</h4>
+                            <h4>1050</h4>
                             <span class="per">PER YEARS</span>
                         </div>
                       
@@ -272,12 +272,12 @@
                                 <div class="mcustom-options">
                                     <div class="mcustom-option selected" data-value="one">
                                         <span>Renew at same cost!</span>
-                                        <h4>1150</h4>
+                                        <h4>150</h4>
                                         <span class="per">For one Month</span>
                                     </div>
                                   <div class="mcustom-option" data-value="two">
                                         <span>Renew at same cost!</span>
-                                        <h4>11050</h4>
+                                        <h4>1050</h4>
                                         <span class="per">For one year</span>
                                     </div>
                                      
@@ -318,7 +318,7 @@
                                 <div class="mcustom-select__trigger">
                                     <div>
                                         <span>Renew at same cost!</span>
-                                        <h4>a?1350</h4>
+                                        <h4>350</h4>
                                         <span class="per">For one Month</span>
                                     </div>
                                     <div class="arrow"></div>
@@ -326,12 +326,12 @@
                                 <div class="mcustom-options">
                                     <div class="mcustom-option selected" data-value="one">
                                         <span>Renew at same cost!</span>
-                                        <h4>a?1350</h4>
+                                        <h4>350</h4>
                                         <span class="per">For one Month</span>
                                     </div>
                                   <div class="mcustom-option" data-value="two">
                                     <span>Renew at same cost!</span>
-                                        <h4>a?12150</h4>
+                                        <h4>2150</h4>
                                         <span class="per">For one year</span>
                                     </div>
                                      
@@ -370,7 +370,7 @@
                                 <div class="mcustom-select__trigger">
                                     <div>
                                         <span>Renew at same cost!</span>
-                                        <h4>a?1400</h4>
+                                        <h4>400</h4>
                                         <span class="per">For one Month</span>
                                     </div>
                                     <div class="arrow"></div>
@@ -378,12 +378,12 @@
                                 <div class="mcustom-options">
                                     <div class="mcustom-option selected" data-value="one">
                                         <span>Renew at same cost!</span>
-                                        <h4>a?1400</h4>
+                                        <h4>400</h4>
                                         <span class="per">For one Month</span>
                                     </div>
                                   <div class="mcustom-option" data-value="two">
                                     <span>Renew at same cost!</span>
-                                        <h4>a?13500</h4>
+                                        <h4>3500</h4>
                                         <span class="per">For one year</span>
                                     </div>
                                    
