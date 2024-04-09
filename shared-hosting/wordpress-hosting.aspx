@@ -171,7 +171,7 @@
                             <span class="per">PER MONTH</span>
                         </div>
                         <div class="twoyearprice">
-                            <h4>₹2150</h4>
+                            <h4>2150</h4>
                             <span class="per">PER YEARS</span>
                         </div>
                     </div>
@@ -207,7 +207,7 @@
                         </div>
 
                         <div class="twoyearprice">
-                            <h4>₹3500</h4>
+                            <h4>3500</h4>
                             <span class="per">PER YEARS</span>
                         </div>
                        
@@ -264,7 +264,7 @@
                                 <div class="mcustom-select__trigger">
                                     <div>
                                         <span>Renew at same cost!</span>
-                                        <h4>₹1150</h4>
+                                        <h4>150</h4>
                                         <span class="per">For one Month</span>
                                     </div>
                                     <div class="arrow"></div>
@@ -272,12 +272,12 @@
                                 <div class="mcustom-options">
                                     <div class="mcustom-option selected" data-value="one">
                                         <span>Renew at same cost!</span>
-                                        <h4>₹1150</h4>
+                                        <h4>1150</h4>
                                         <span class="per">For one Month</span>
                                     </div>
                                   <div class="mcustom-option" data-value="two">
                                         <span>Renew at same cost!</span>
-                                        <h4>₹11050</h4>
+                                        <h4>11050</h4>
                                         <span class="per">For one year</span>
                                     </div>
                                      
