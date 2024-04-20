@@ -105,8 +105,8 @@ $(document).on('change', '#exampleFormControlSelect1', function() {
                             <div class="mcustom-select">
                                 <div class="mcustom-select__trigger n">
                                     <div>
-                                         <span class="de"><del>&#8377;145</del></span>
-                <h5 class="badge1">SAVE 29%</h5>
+                                         <span class="de"><del>&#8377;162</del></span>
+                <h5 class="badge1">SAVE 25%</h5>
                                         <h4><span class="pr">&#8377;</span>121<span class="prsu">/user/mo</span></h4>
                                         <span class="per">annual term</span>
                                     </div>
@@ -204,7 +204,7 @@ $(document).on('change', '#exampleFormControlSelect1', function() {
                                 <div class="mcustom-select__trigger n">
                                     <div>
                                          <span class="de"><del>&#8377;1830</del></span>
-                <h5 class="badge1">SAVE 26%</h5>
+                <h5 class="badge1">SAVE 9%</h5>
                                         <h4><span class="pr">&#8377;</span>1500<span class="prsu">/user/mo</span></h4>
                                         <span class="per">annual term</span>
                                     </div>
