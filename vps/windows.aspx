@@ -178,7 +178,7 @@
 
         <div class="row spacing-70">
 
-            <div class="col-sm-15 wow zoomIn" data-wow-delay="0.2s">
+            <div class="col-sm-3 wow zoomIn" data-wow-delay="0.2s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
                         <h3 class="text-center">Windows VPS 1</h3>
@@ -203,7 +203,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-15 wow zoomIn" data-wow-delay="0.4s">
+            <div class="col-sm-3 wow zoomIn" data-wow-delay="0.4s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
                         <h3 class="text-center">Windows VPS 2</h3>
@@ -228,7 +228,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-15 wow zoomIn" data-wow-delay="0.6s">
+            <div class="col-sm-3 wow zoomIn" data-wow-delay="0.6s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
                         <h3 class="text-center">Windows VPS 3</h3>
@@ -253,7 +253,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-15 wow zoomIn" data-wow-delay="0.8s">
+            <div class="col-sm-3 wow zoomIn" data-wow-delay="0.8s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
                         <h3 class="text-center">Windows VPS 4</h3>
@@ -278,7 +278,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-15 wow zoomIn" data-wow-delay="1s">
+            <div class="col-sm-3 wow zoomIn" data-wow-delay="1s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
                         <h3 class="text-center">Windows VPS 5</h3>
@@ -303,7 +303,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-15 wow zoomIn" data-wow-delay="1s">
+            <div class="col-sm-3 wow zoomIn" data-wow-delay="1s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
                         <h3 class="text-center">Windows VPS 6</h3>
@@ -323,12 +323,12 @@
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=69">ORDER NOW</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=335&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-sm-15 wow zoomIn" data-wow-delay="1s">
+            <div class="col-sm-3 wow zoomIn" data-wow-delay="1s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
                         <h3 class="text-center">Windows VPS 7</h3>
@@ -348,12 +348,12 @@
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=69">ORDER NOW</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=336&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
 
-            <div class="col-sm-15 wow zoomIn" data-wow-delay="1s">
+            <div class="col-sm-3 wow zoomIn" data-wow-delay="1s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
                         <h3 class="text-center">Windows VPS 8</h3>
@@ -373,7 +373,7 @@
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=69">ORDER NOW</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=337&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
