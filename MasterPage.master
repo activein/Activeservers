@@ -515,7 +515,7 @@ window.onclick = function(event) {
             <div class="col-sm-3">
                 <h4>Get Support</h4>
                 <ul>
-                    <li><a href="https://clients.activeservers.in/contact.php">Contact Us</a>
+                    <li><a href="https://clients.activeservers.in/Privacy.aspx">Privacy Policy</a>
                     </li>
                     <li><a href="https://activeservers.in/termsncondition.aspx">Terms</a>
                     </li>
