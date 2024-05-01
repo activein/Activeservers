@@ -1,4 +1,4 @@
-<%@ Page Title="Terms and conditions" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="TermsnCondition.aspx.cs" MetaKeywords="Terms and conditions of ActiveServers"
+<%@ Page Title="privacy policies" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="TermsnCondition.aspx.cs" MetaKeywords="Terms and conditions of ActiveServers"
     MetaDescription="We at Active Servers are a bunch of professional enthusiasts who deals with domains, hosting, ssl, email hosting, VPS, Contnet writing, Digital marketing and IT services." Inherits="TermsnCondition" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
