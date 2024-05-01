@@ -15,12 +15,12 @@
         <div class="row spacing-40">
             <div class="col-sm-12">
                 <div class="faq-questions">
-                    <h3 class="badge">ActiveServers Terms and conditions</h3>
+                    
 
                     <div id="accordion" class="panel-group spacing-40">
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <h4 class="panel-title badge"><a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Terms and conditions</a></h4>
+                                
                             </div>
 
                             <div id="collapse1" class="panel-collapse collapse in">
