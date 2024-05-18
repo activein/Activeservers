@@ -435,11 +435,6 @@ window.onclick = function(event) {
                              <ul>
                                 <li><a  href="../Website/Website-development.aspx">Website dev.</a>
                                 </li>
-                                <li><a  href="../Website/ContentWritting.aspx">Content Writing</a></li>
-                               <li><a  href="../Website/SEO.aspx">SEO</a>
-                                </li>
-                                <li><a  href="../Website/SMO.aspx">SMO</a>
-                               </li>
 							   <li><a  href="../Website/whmcs-services.aspx">WHMCS Services</a>
                                </li>
 						</ul>
@@ -515,7 +510,7 @@ window.onclick = function(event) {
             <div class="col-sm-3">
                 <h4>Get Support</h4>
                 <ul>
-                    <li><a href="https://activeservers.in/Privacy.aspx">Privacy Policy</a>
+                    <li><a href="https://clients.activeservers.in/contact.php">Contact Us</a>
                     </li>
                     <li><a href="https://activeservers.in/termsncondition.aspx">Terms</a>
                     </li>

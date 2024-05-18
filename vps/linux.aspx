@@ -211,7 +211,7 @@
                         <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/feeds/productsinfo.php?pid=9&amp;get=name"></script></h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹550</h4>
+                        <h4>₹600</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
@@ -259,13 +259,13 @@
                         <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/feeds/productsinfo.php?pid=45&amp;get=name"></script></h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹1150</h4>
+                        <h4>₹1500</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
                         <li>4 vCPU</li>
-                        <li>8 GB RAM </li>
-                        <li>200 GB SSD Disk </li>
+                        <li>16 GB RAM </li>
+                        <li>160 GB SSD Disk </li>
                         <li>20 TB Bandwidth </li>
 						<li style="background-color:#00584d; color:#cce5ff;"><b>Free Linux support worth ₹4500*</b></li>
 						<li>Dedicated IP Address </li>
@@ -290,13 +290,13 @@
                         <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/feeds/productsinfo.php?pid=53&amp;get=name"></script></h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹1250</h4>
+                        <h4>₹2600</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
                         <li>6 vCPU</li>
-                        <li>16 GB RAM </li>
-                        <li>400 GB SSD Disk </li>
+                        <li>24 GB RAM </li>
+                        <li>240 GB SSD Disk </li>
                         <li>20 TB Bandwidth </li>
 						<li style="background-color:#00584d; color:#cce5ff;"><b>Free Linux support worth ₹4500*</b></li>
 						<li>Dedicated IP Address </li>
@@ -316,13 +316,13 @@
                         <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/feeds/productsinfo.php?pid=197&amp;get=name"></script></h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹1650</h4>
+                        <h4>₹5000</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
                         <li>8 vCPU</li>
-                        <li>16 GB RAM </li>
-                        <li>160 GB SSD Disk </li>
+                        <li>32 GB RAM </li>
+                        <li>320 GB SSD Disk </li>
                         <li>20 TB Bandwidth </li>
 						<li style="background-color:#00584d; color:#cce5ff;"><b>Free Linux support worth ₹4500*</b></li>
 						<li>Dedicated IP Address </li>
@@ -340,14 +340,14 @@
                         <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/feeds/productsinfo.php?pid=49&amp;get=name"></script></h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹3250</h4>
+                        <h4>₹8500</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
-                        <li>10 vCPU</li>
-                        <li>60 GB RAM </li>
-                        <li>1.6 TB SSD Disk </li>
-                        <li>20 TB Bandwidth </li>
+                        <li>12 vCPU</li>
+                        <li>48 GB RAM </li>
+                        <li>600 GB NVMe Space</li>
+                        <li>8 TB Bandwidth </li>
 						<li style="background-color:#00584d; color:#cce5ff;"><b>Free Linux support worth ₹4500*</b></li>
 						<li>Dedicated IP Address </li>
 						<li>Full Root Access </li>
@@ -364,14 +364,14 @@
                         <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/feeds/productsinfo.php?pid=44&amp;get=name"></script></h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹3300</h4>
+                        <h4>₹11500</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
-                        <li>12 vCPU</li>
-                        <li>32 GB RAM </li>
-                        <li>320 GB SSD Disk </li>
-                        <li>20 TB Bandwidth </li>
+                        <li>16 vCPU</li>
+                        <li>64 GB RAM </li>
+                        <li>800 GB NVMe Space</li>
+                        <li>10 TB Bandwidth </li>
 						<li style="background-color:#00584d; color:#cce5ff;"><b>Free Linux support worth ₹4500*</b></li>
 						<li>Dedicated IP Address </li>
 						<li>Full Root Access </li>

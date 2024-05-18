@@ -166,7 +166,7 @@
 					
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=40">ORDER NOW</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=333&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
