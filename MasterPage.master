@@ -364,8 +364,7 @@ window.onclick = function(event) {
                                 </li>
                                      <li><a  href="../shared-hosting/wordpress-hosting.aspx">WordPress Hosting</a>
                                 </li>
-                                 <li><a  href="../vps/magento-hosting.aspx">Magento Hosting</a>
-                                </li>
+                                
                                  <li><a  href="../shared-hosting/reseller-windows-hosting.aspx">Reseller Windows Hosting</a>
                                 </li>
                                 <li><a href="../shared-hosting/reseller-linux-hosting.aspx">Reseller Linux Hosting</a>

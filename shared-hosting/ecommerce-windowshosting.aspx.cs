@@ -9,6 +9,6 @@ public partial class shared_hosting_ecommerece_windowshosting : System.Web.UI.Pa
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-
+Response.Redirect("https://activeservers.in/shared-hosting/windows-hosting.aspx");
     }
 }

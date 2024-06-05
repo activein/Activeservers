@@ -9,6 +9,6 @@ public partial class Magento_hosting : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-
+Response.Redirect("https://activeservers.in/vps/linux.aspx");
     }
 }
