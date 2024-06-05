@@ -360,8 +360,7 @@ window.onclick = function(event) {
                                 <li><a  href="https://activeservers.in/shared-hosting/CloudHosting.aspx">cPanel Hosting</a>
                                 </li>
                                
-                                <li><a  href="../shared-hosting/ecommerce-windowshosting.aspx">Ecommerce Windows Hosting</a>
-                                </li>
+                              
                                      <li><a  href="../shared-hosting/wordpress-hosting.aspx">WordPress Hosting</a>
                                 </li>
                                 
