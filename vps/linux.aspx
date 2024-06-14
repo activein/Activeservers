@@ -168,7 +168,7 @@
         <div class="row">
 			
             <div class="col-sm-12">
-                <h2>Cheap Linux VPS Hosting India</h2>
+                <h2>Cheap Linux VPS Hosting</h2>
                 <p>You can choose your OS, Support Management level and upgrade the linux VPS anytime.</p>
             </div>
         </div>
@@ -421,7 +421,7 @@
 						<li>Dedicated IP Address</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="#">COMMING SOON</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=318&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -445,7 +445,7 @@
 						<li>Dedicated IP Address</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="#">COMMING SOON</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=319&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -469,7 +469,7 @@
 						<li>Dedicated IP Address</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="#">COMMING SOON</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=320&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -493,7 +493,7 @@
 						<li>Dedicated IP Address</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="#">COMMING SOON</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=321&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -517,7 +517,7 @@
 						<li>Dedicated IP Address</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="#">COMMING SOON</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=322&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
