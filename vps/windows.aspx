@@ -198,7 +198,7 @@
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=65">ORDER NOW</a>
+                        <a class="btn btn-lg btn-pricetable" href="#">COMMING SOON</a>
                     </div>
                 </div>
             </div>
@@ -414,7 +414,7 @@
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="#">COMMING SOON</a>
+                       <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=323&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -440,7 +440,7 @@
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="#">COMMING SOON</a>
+                       <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=324&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -466,7 +466,7 @@
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="#">COMMING SOON</a>
+                         <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=325&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -492,7 +492,7 @@
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="#">COMMING SOON</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=326&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -518,7 +518,7 @@
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="#">COMMING SOON</a>
+                       <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=327&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
