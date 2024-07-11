@@ -178,23 +178,23 @@
 
         <div class="row spacing-70">
 
-            <div class="col-sm-3 wow zoomIn" data-wow-delay="0.2s">
+            <div class="col-sm-15 wow zoomIn" data-wow-delay="0.2s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
                         <h3 class="text-center">Windows VPS 1</h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹850</h4>
+                        <h4>₹1200</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
-						<li>1 vCPU</li>
-                        <li>50 GB SSD</li>
-                        <li>2 GB RAM</li>
-                        <li>500 GB Bandwidth </li>
+						<li>2 vCPU</li>
+                        <li>60 GB SSD</li>
+                        <li>4 GB RAM</li>
+                        <li>2 TB Bandwidth </li>
                         <li>Semi-Managed</li>
                         <li>Full Admin Access</li>
-						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019 / 2022</b></li>
+						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019</b></li>
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
@@ -203,20 +203,20 @@
                 </div>
             </div>
 
-            <div class="col-sm-3 wow zoomIn" data-wow-delay="0.4s">
+            <div class="col-sm-15 wow zoomIn" data-wow-delay="0.4s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
                         <h3 class="text-center">Windows VPS 2</h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹1200</h4>
+                        <h4>₹2000</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
-                        <li>2 vCPU</li>
-                        <li>75 GB SSD</li>
-                        <li>4 GB RAM</li>
-                        <li>1 TB Bandwidth </li>
+                        <li>4 vCPU</li>
+                        <li>180 GB SSD</li>
+                        <li>8 GB RAM</li>
+                        <li>4 TB Bandwidth </li>
                         <li>Semi-Managed</li>
                         <li>Full Admin Access</li>
 						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019 / 2022</b></li>
@@ -228,20 +228,20 @@
                 </div>
             </div>
 
-            <div class="col-sm-3 wow zoomIn" data-wow-delay="0.6s">
+            <div class="col-sm-15 wow zoomIn" data-wow-delay="0.6s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
                         <h3 class="text-center">Windows VPS 3</h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹1900</h4>
+                        <h4>₹3000</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
-                        <li>3 vCPU</li>
-                        <li>100 GB SSD</li>
-                        <li>8 GB RAM</li>
-                        <li>2 TB Bandwidth </li>
+                        <li>6 vCPU</li>
+                        <li>360 GB SSD</li>
+                        <li>16 GB RAM</li>
+                        <li>8 TB Bandwidth </li>
                         <li>Semi-Managed</li>
                         <li>Full Admin Access</li>
 						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019 / 2022</b></li>
@@ -253,23 +253,23 @@
                 </div>
             </div>
 
-            <div class="col-sm-3 wow zoomIn" data-wow-delay="0.8s">
+            <div class="col-sm-15 wow zoomIn" data-wow-delay="0.8s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
                         <h3 class="text-center">Windows VPS 4</h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹3300</h4>
+                        <h4>₹6000</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
                         <li>4 vCPU</li>
-                        <li>200 GB Premium SSD</li>
+                        <li>160 GB Premium SSD</li>
                         <li>16 GB RAM</li>
-                        <li>4 TB Bandwidth </li>
+                        <li>16 TB Bandwidth </li>
                         <li>Semi-Managed</li>
                         <li>Full Admin Access</li>
-						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019 / 2022</b></li>
+						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019</b></li>
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
@@ -278,102 +278,27 @@
                 </div>
             </div>
 
-            <div class="col-sm-3 wow zoomIn" data-wow-delay="1s">
+            <div class="col-sm-15 wow zoomIn" data-wow-delay="1s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
                         <h3 class="text-center">Windows VPS 5</h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹6100</h4>
+                        <h4>₹11000</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
                         <li>6 vCPU</li>
-                        <li>400 GB Premium SSD</li>
-                        <li>32 GB RAM</li>
-                        <li>5 TB Bandwidth </li>
+                        <li>220 GB Premium SSD</li>
+                        <li>24 GB RAM</li>
+                        <li>40 TB Bandwidth </li>
                         <li>Semi-Managed</li>
                         <li>Full Admin Access</li>
-						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019 / 2022</b></li>
+						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019</b></li>
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
                         <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=69">ORDER NOW</a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-sm-3 wow zoomIn" data-wow-delay="1s">
-                <div class="panel panel-info">
-                    <div class="panel-heading">
-                        <h3 class="text-center">Windows VPS 6</h3>
-                    </div>
-                    <div class="panel-body text-center">
-                        <h4>₹8900</h4>
-                        <span class="per">PER MONTH</span>
-                    </div>
-                    <ul class="text-center">
-                        <li>8 vCPU</li>
-                        <li>600 GB Premium SSD</li>
-                        <li>48 GB RAM</li>
-                        <li>6 TB Bandwidth </li>
-                        <li>Semi-Managed</li>
-                        <li>Full Admin Access</li>
-						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019 / 2022</b></li>
-                        <li>1 Dedicated IP</li>
-                    </ul>
-                    <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=335&carttpl=standard_cart">ORDER NOW</a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-sm-3 wow zoomIn" data-wow-delay="1s">
-                <div class="panel panel-info">
-                    <div class="panel-heading">
-                        <h3 class="text-center">Windows VPS 7</h3>
-                    </div>
-                    <div class="panel-body text-center">
-                        <h4>₹11700</h4>
-                        <span class="per">PER MONTH</span>
-                    </div>
-                    <ul class="text-center">
-                        <li>12 vCPU</li>
-                        <li>800 GB Premium SSD</li>
-                        <li>64 GB RAM</li>
-                        <li>7 TB Bandwidth </li>
-                        <li>Semi-Managed</li>
-                        <li>Full Admin Access</li>
-						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019 / 2022</b></li>
-                        <li>1 Dedicated IP</li>
-                    </ul>
-                    <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=336&carttpl=standard_cart">ORDER NOW</a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-sm-3 wow zoomIn" data-wow-delay="1s">
-                <div class="panel panel-info">
-                    <div class="panel-heading">
-                        <h3 class="text-center">Windows VPS 8</h3>
-                    </div>
-                    <div class="panel-body text-center">
-                        <h4>₹21000</h4>
-                        <span class="per">PER MONTH</span>
-                    </div>
-                    <ul class="text-center">
-                        <li>16 vCPU</li>
-                        <li>1200 GB Premium SSD</li>
-                        <li>96 GB RAM</li>
-                        <li>8 TB Bandwidth </li>
-                        <li>Semi-Managed</li>
-                        <li>Full Admin Access</li>
-						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019 / 2022</b></li>
-                        <li>1 Dedicated IP</li>
-                    </ul>
-                    <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=337&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -410,11 +335,11 @@
 						<li>14 Global Locations</li>
                         <li>Semi-Managed</li>
                         <li>Full Admin Access</li>
-						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019 / 2022</b></li>
+						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019</b></li>
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="#">COMMING SOON</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=323&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -436,11 +361,11 @@
 						<li>14 Global Locations</li>
                         <li>Semi-Managed</li>
                         <li>Full Admin Access</li>
-						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019 / 2022</b></li>
+						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019</b></li>
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="#">COMMING SOON</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=324&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -462,11 +387,11 @@
 						<li>14 Global Locations</li>
                         <li>Semi-Managed</li>
                         <li>Full Admin Access</li>
-						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019 / 2022</b></li>
+						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019</b></li>
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="#">COMMING SOON</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=325&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -488,11 +413,11 @@
 						<li>14 Global Locations</li>
                         <li>Semi-Managed</li>
                         <li>Full Admin Access</li>
-						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019 / 2022</b></li>
+						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019</b></li>
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="#">COMMING SOON</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=326&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -514,11 +439,11 @@
 						<li>14 Global Locations</li>
                         <li>Semi-Managed</li>
                         <li>Full Admin Access</li>
-						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019 / 2022</b></li>
+						<li style="background-color:#00584d; color:#cce5ff;"><b>Windows 2016 / 2019</b></li>
                         <li>1 Dedicated IP</li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="#">COMMING SOON</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=327&carttpl=standard_cart">ORDER NOW</a>
                     </div>
                 </div>
             </div>
