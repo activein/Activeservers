@@ -167,19 +167,9 @@ src="https://www.facebook.com/tr?id=427624868814050&ev=PageView&noscript=1"
   gtag('config', 'UA-65042919-1');
 </script>
 
-    <!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/61cee49f80b2296cfdd481cc/1fo82q4oq';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!--End of Tawk.to Script-->
+    <!--Start of Zoho Script-->
+<script>window.$zoho = window.$zoho || {}; $zoho.salesiq = $zoho.salesiq || { ready: function () { } }</script><script id="zsiqscript" src="https://salesiq.zohopublic.in/widget?wc=siqf81c432c03d52905050c184bdfa89ad77c3432c836e826af09f2ca1a2168f055" defer></script>
+<!--End of Zoho Script-->
      <!-- Global site tag (gtag.js) - Google Ads: 947260517 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-947260517"></script>
 <script>
@@ -360,21 +350,18 @@ window.onclick = function(event) {
                                 <li><a  href="https://activeservers.in/shared-hosting/CloudHosting.aspx">cPanel Hosting</a>
                                 </li>
                                
-                              
+                               
                                      <li><a  href="../shared-hosting/wordpress-hosting.aspx">WordPress Hosting</a>
                                 </li>
+                                 
                                 
-                                 <li><a  href="../shared-hosting/reseller-windows-hosting.aspx">Reseller Windows Hosting</a>
-                                </li>
-                                <li><a href="../shared-hosting/reseller-linux-hosting.aspx">Reseller Linux Hosting</a>
-                             
-                                </li>
-								
+                              
+							 </ul>
 								 
                                  </li>
                                
-                            </ul>
-                     </li>
+                           
+                 
 					 
 						
 						<li><a href="#">Email</a>
