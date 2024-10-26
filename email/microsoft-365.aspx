@@ -188,7 +188,7 @@ $(document).on('change', '#exampleFormControlSelect1', function() {
 						
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/microsoft-365/new-microsoft-365-standard">Order Now</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/microsoft-365/no-teams-microsoft-standard">Order Now</a>
                     </div>
                 </div>
             </div>
@@ -237,7 +237,7 @@ $(document).on('change', '#exampleFormControlSelect1', function() {
 					
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/microsoft-365/new-microsoft-365-premium">Order Now</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/microsoft-365/no-teams-microsoft-preminum">Order Now</a>
                     </div>
                 </div>
             </div>
