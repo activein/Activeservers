@@ -181,11 +181,11 @@
 			<div class="col-sm-3 wow zoomIn" data-wow-delay="0.2s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
-                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/feeds/productsinfo.php?pid=237&amp;get=name"></script></h3>
+                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/store/linux-vps/new-linux-vps-1"></script></h3>
 						
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹250</h4>
+                        <h4>₹230</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
@@ -193,14 +193,15 @@
                         <li>2 GB RAM</li>
                         <li>30 GB SSD Disk </li>
                         <li>300 GB Bandwidth </li>
+                         <li>Location:India </li>
+                         <li>No Backup </li>
 				<!--  <li id="blink" style="background-color:#d86668; color:white;"><b>Free Linux support worth ₹4500*</b></li>-->		
 						<li style="background-color:#00584d; color:#cce5ff;"><b>Free Linux support worth ₹4500*</b></li>
 				<!--  <li><b>Location</b><br><img src="../images/india.png" class="flag-location" alt=""> <img src="../images/europe.png" class="flag-location" alt=""></li>-->	
-						<li>Dedicated IP Address </li>
-						<li>Full Root Access </li>
+	
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=237&billingcycle=annually">ORDER NOW</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/linux-vps/new-linux-vps-1">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -208,23 +209,23 @@
 			<div class="col-sm-3 wow zoomIn" data-wow-delay="0.2s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
-                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/feeds/productsinfo.php?pid=9&amp;get=name"></script></h3>
+                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/store/linux-vps/new-linux-vps-2"></script></h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹600</h4>
+                        <h4>₹330</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
                         <li>2 vCPU</li>
                         <li>4 GB RAM </li>
-                        <li>40 GB SSD Disk </li>
-                        <li>8 TB Bandwidth </li>
+                        <li>60 GB SSD Disk </li>
+                        <li>300 GB Bandwidth </li>
+                        <li>Location:India </li>
+                        <li>No Backup </li>
 						<li style="background-color:#00584d; color:#cce5ff;"><b>Free Linux support worth ₹4500*</b></li>
-						<li>Dedicated IP Address </li>
-						<li>Full Root Access </li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=9&billingcycle=annually">ORDER NOW</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/linux-vps/new-linux-vps-2">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -232,23 +233,23 @@
            <div class="col-sm-3 wow zoomIn" data-wow-delay="0.2s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
-                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/feeds/productsinfo.php?pid=238&amp;get=name"></script></h3>
+                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/store/linux-vps/new-linux-vps-3"></script></h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹950</h4>
+                        <h4>₹400</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
-                        <li>3 vCPU</li>
-                        <li>8 GB RAM </li>
-                        <li>80 GB SSD Disk </li>
-                        <li>8 TB Bandwidth </li>
+                        <li>2 vCPU</li>
+                        <li>4 GB RAM </li>
+                        <li>60 GB SSD Disk </li>
+                        <li>500 GB Bandwidth </li>
+                        <li>Location:India </li>
+                        <li>No Backup </li>
 						<li style="background-color:#00584d; color:#cce5ff;"><b>Free Linux support worth ₹4500*</b></li>
-						<li>Dedicated IP Address </li>
-						<li>Full Root Access </li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=238&billingcycle=annually">ORDER NOW</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/linux-vps/new-linux-vps-3">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -256,23 +257,23 @@
             <div class="col-sm-3 wow zoomIn" data-wow-delay="0.4s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
-                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/feeds/productsinfo.php?pid=45&amp;get=name"></script></h3>
+                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/store/linux-vps/new-linux-vps-4"></script></h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹1500</h4>
+                        <h4>₹500</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
                         <li>4 vCPU</li>
-                        <li>16 GB RAM </li>
-                        <li>160 GB SSD Disk </li>
-                        <li>20 TB Bandwidth </li>
+                        <li>4 GB RAM </li>
+                        <li>100 GB SSD Disk </li>
+                        <li>500 GB Bandwidth </li>
+                        <li>Location:India </li>
+                        <li>No Backup </li>
 						<li style="background-color:#00584d; color:#cce5ff;"><b>Free Linux support worth ₹4500*</b></li>
-						<li>Dedicated IP Address </li>
-						<li>Full Root Access </li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=45&billingcycle=annually">ORDER NOW</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/linux-vps/new-linux-vps-4">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -287,23 +288,23 @@
 			<div class="col-sm-3 wow zoomIn" data-wow-delay="0.2s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
-                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/feeds/productsinfo.php?pid=53&amp;get=name"></script></h3>
+                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/store/linux-vps/new-linux-vps-5"></script></h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹2600</h4>
+                        <h4>₹600</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
-                        <li>6 vCPU</li>
-                        <li>24 GB RAM </li>
-                        <li>240 GB SSD Disk </li>
-                        <li>20 TB Bandwidth </li>
+                        <li>4 vCPU</li>
+                        <li>8 GB RAM </li>
+                        <li>100 GB SSD Disk </li>
+                        <li>700 GB Bandwidth </li>
+                        <li>Location:India </li>
+                        <li>No Backup </li>
 						<li style="background-color:#00584d; color:#cce5ff;"><b>Free Linux support worth ₹4500*</b></li>
-						<li>Dedicated IP Address </li>
-						<li>Full Root Access </li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=53&billingcycle=annually">ORDER NOW</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/linux-vps/new-linux-vps-5">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -313,23 +314,24 @@
             <div class="col-sm-3 wow zoomIn" data-wow-delay="0.2s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
-                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/feeds/productsinfo.php?pid=197&amp;get=name"></script></h3>
+                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/store/linux-vps/new-linux-vps-6"></script></h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹5000</h4>
+                        <h4>₹700</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
-                        <li>8 vCPU</li>
-                        <li>32 GB RAM </li>
-                        <li>320 GB SSD Disk </li>
-                        <li>20 TB Bandwidth </li>
+                        <li>4 vCPU</li>
+                        <li>8 GB RAM </li>
+                        <li>150 GB SSD Disk </li>
+                        <li>700 GB Bandwidth </li>
+                        <li>Location:India </li>
+                        <li>No Backup </li>
 						<li style="background-color:#00584d; color:#cce5ff;"><b>Free Linux support worth ₹4500*</b></li>
-						<li>Dedicated IP Address </li>
-						<li>Full Root Access </li>
+
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=197&billingcycle=annually">ORDER NOW</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/linux-vps/new-linux-vps-6">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -337,23 +339,23 @@
             <div class="col-sm-3 wow zoomIn" data-wow-delay="0.4s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
-                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/feeds/productsinfo.php?pid=49&amp;get=name"></script></h3>
+                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/store/linux-vps/new-linux-vps-7"></script></h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹8500</h4>
+                        <h4>₹750</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
-                        <li>12 vCPU</li>
-                        <li>48 GB RAM </li>
-                        <li>600 GB NVMe Space</li>
-                        <li>8 TB Bandwidth </li>
+                        <li>4 vCPU</li>
+                        <li>8 GB RAM </li>
+                        <li>200 GB NVMe Space</li>
+                        <li>700 GB Bandwidth </li>
+                        <li>Location:India </li>
+                        <li>No Backup </li>
 						<li style="background-color:#00584d; color:#cce5ff;"><b>Free Linux support worth ₹4500*</b></li>
-						<li>Dedicated IP Address </li>
-						<li>Full Root Access </li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=add&pid=49&billingcycle=annually">ORDER NOW</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/linux-vps/new-linux-vps-7">ORDER NOW</a>
                     </div>
                 </div>
             </div>

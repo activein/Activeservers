@@ -87,11 +87,164 @@ $(document).on('change', '#exampleFormControlSelect1', function() {
 								
 		</div>	
     </section>
-	
-	    <!--  Pricing Tables -->
+
+    		   <!--  Without Teams Pricing Tables -->
     <section class="pricingtables default elements">
 	
 	<h5 class="badge">UPTO 29% OFF ON Microsoft*</h5>
+
+        <div class="row">
+            <div class="col-sm-4 wow zoomIn" data-wow-delay="0.2s">
+                <div class="panel panel-info">
+                     <div class="panel-heading">
+                        <h3 class="text-center">NO TEAMS BUSINESS BASIC </h3>
+						
+                    </div>
+                <div class="panel-body text-center">
+                        <div class="mcustom-select-wrapper">
+                            <div class="mcustom-select">
+                                <div class="mcustom-select__trigger n">
+                                    <div>
+                                         <span class="de"><del>&#8377;115</del></span>
+                <h5 class="badge1">SAVE 29%</h5>
+                                        <h4><span class="pr">&#8377;</span>110<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">monthky term</span>
+                                    </div>
+                                    <div class="arrow"></div>
+                                </div>
+                                <div class="mcustom-options">
+                                    <div class="mcustom-option selected" data-value="one">
+									<span class="de"><del>&#8377;115</del></span>
+                <h5 class="badge1">SAVE 29%</h5>
+										<h4 value="8"><span class="pr">&#8377;</span>110<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">monthly term</span>
+                                    </div>
+                                  <div class="mcustom-option" data-value="two">
+                                  <span class="de"><del>&#8377;1380</del></span>
+                <h5 class="badge1">SAVE 12%</h5>
+										<h4><span class="pr">&#8377;</span>1200<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">annual term</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <ul class="text-center">
+                        <li> &nbsp;&nbsp;Business-class email</li>
+                        <li> &nbsp;&nbsp;<b>50 GB</b> mailbox and <b>1 TB</b> OneDrive cloud storage</li>
+                        <li><img src="../images/outlook.png" alt="" width="25px"/> &nbsp;&nbsp;Web and mobile versions <br>of Office apps</li>
+                        <li> &nbsp;&nbsp;Standard security (Exchange Online Protection)</li>
+						<li id="" style="background-color:black; color:#6cd0c3;"><b>Standard support by Microsoft & ActiveServers</b></li>
+						
+                    </ul>
+                    <div class="panel-footer">
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/microsoft-365/no-teams-microsoft-basic">Order Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-4 wow zoomIn" data-wow-delay="0.4s">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <h3 class="text-center">NO TEAMS BUSINESS STANDARD</h3>
+                    </div>
+                     <div class="panel-body text-center">
+                        <div class="mcustom-select-wrapper">
+                            <div class="mcustom-select">
+                                <div class="mcustom-select__trigger n">
+                                    <div>
+                                         <span class="de"><del>&#8377;630</del></span>
+                <h5 class="badge1">SAVE 31%</h5>
+                                        <h4><span class="pr">&#8377;</span>625<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">monthly term</span>
+                                    </div>
+                                    <div class="arrow"></div>
+                                </div>
+                                <div class="mcustom-options">
+                                    <div class="mcustom-option selected" data-value="one">
+									<span class="de"><del>&#8377;630</del></span>
+                <h5 class="badge1">SAVE 31%</h5>
+										<h4 value="8"><span class="pr">&#8377;</span>625<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">monthly term</span>
+                                    </div>
+                                  <div class="mcustom-option" data-value="two">
+                                       <span class="de"><del>&#8377;7560</del></span>
+                <h5 class="badge1">SAVE 20%</h5>
+										<h4><span class="pr">&#8377;</span>7000<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">monthly term</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <ul class="text-center">
+                        <li> &nbsp;&nbsp;Business-class email</li>
+                        <li> &nbsp;&nbsp;<b>50 GB</b> mailbox and <b>1 TB</b> OneDrive cloud storage</li>
+						<li><img src="../images/outlook.png" alt="" width="25px"/> &nbsp;&nbsp;Desktop versions of Office apps with premium features</li>
+                        <li> &nbsp;&nbsp;Standard security (Exchange Online Protection)</li>
+						<li id="" style="background-color:black; color:#6cd0c3;"><b>Standard support by Microsoft & ActiveServers</b></li>
+						
+                    </ul>
+                    <div class="panel-footer">
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/microsoft-365/new-microsoft-365-standard">Order Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-4 wow zoomIn" data-wow-delay="0.6s">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <h3 class="text-center"> NO TEAMS BUSINESS PREMIUM</h3>
+                    </div>
+                      <div class="panel-body text-center">
+                        <div class="mcustom-select-wrapper">
+                            <div class="mcustom-select">
+                                <div class="mcustom-select__trigger n">
+                                    <div>
+                                         <span class="de"><del>&#8377;1645</del></span>
+                <h5 class="badge1">SAVE 26%</h5>
+                                        <h4><span class="pr">&#8377;</span>1640<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">monthly term</span>
+                                    </div>
+                                    <div class="arrow"></div>
+                                </div>
+                                <div class="mcustom-options">
+                                    <div class="mcustom-option selected" data-value="one">
+									<span class="de"><del>&#8377;1645</del></span>
+                <h5 class="badge1">SAVE 26%</h5>
+										<h4 value="8"><span class="pr">&#8377;</span>1640<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">monthly term</span>
+                                    </div>
+                                  <div class="mcustom-option" data-value="two">
+                                       <span class="de"><del>&#8377;19740</del></span>
+                <h5 class="badge1">SAVE 16%</h5>
+										<h4><span class="pr">&#8377;</span>18500<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">annual term</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <ul class="text-center">
+                        <li> &nbsp;&nbsp;Business-class email</li>
+                        <li> &nbsp;&nbsp;<b>50 GB</b> mailbox and <b>1 TB</b> OneDrive cloud storage</li>
+						<li><img src="../images/outlook.png" alt="" width="25px"/> &nbsp;&nbsp;Desktop versions of Office apps with premium features</li>
+                        <li> &nbsp;&nbsp;Advanced security (Exchange Online Protection & Defender for Business)</li>
+						<li id="" style="background-color:black; color:#6cd0c3;"><b>Standard support by Microsoft & ActiveServers</b></li>
+					
+                    </ul>
+                    <div class="panel-footer">
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/microsoft-365/new-microsoft-365-premium">Order Now</a>
+                    </div>
+                </div>
+            </div>
+
+			
+        </div>
+
 	
         <div class="row">
             <div class="col-sm-4 wow zoomIn" data-wow-delay="0.2s">
@@ -105,8 +258,8 @@ $(document).on('change', '#exampleFormControlSelect1', function() {
                             <div class="mcustom-select">
                                 <div class="mcustom-select__trigger n">
                                     <div>
-                                         <span class="de"><del>&#8377;162</del></span>
-                <h5 class="badge1">SAVE 25%</h5>
+                                         <span class="de"><del>&#8377;145</del></span>
+                <h5 class="badge1">SAVE 29%</h5>
                                         <h4><span class="pr">&#8377;</span>121<span class="prsu">/user/mo</span></h4>
                                         <span class="per">annual term</span>
                                     </div>
@@ -204,7 +357,7 @@ $(document).on('change', '#exampleFormControlSelect1', function() {
                                 <div class="mcustom-select__trigger n">
                                     <div>
                                          <span class="de"><del>&#8377;1830</del></span>
-                <h5 class="badge1">SAVE 9%</h5>
+                <h5 class="badge1">SAVE 26%</h5>
                                         <h4><span class="pr">&#8377;</span>1500<span class="prsu">/user/mo</span></h4>
                                         <span class="per">annual term</span>
                                     </div>
@@ -260,7 +413,334 @@ $(document).on('change', '#exampleFormControlSelect1', function() {
 		<h2 class="ques2 white">Have Questions? <a href="tel:+91 9359426804">Call us</a> or <a href="javascript:void(Tawk_API.toggle())">Chat Now</a>.</h2><br>
 		 </div>
     </section>
-    <!-- End of Pricing Tables -->
+    <!--  Without Teams End of Pricing Tables -->
+	
+	    <!--   With Teams Pricing Tables -->
+    <section class="pricingtables default elements">
+	
+	<h5 class="badge">UPTO 29% OFF ON Microsoft*</h5>
+
+        <div class="row">
+            <div class="col-sm-4 wow zoomIn" data-wow-delay="0.2s">
+                <div class="panel panel-info">
+                     <div class="panel-heading">
+                        <h3 class="text-center">BUSINESS BASIC </h3>
+						
+                    </div>
+                <div class="panel-body text-center">
+                        <div class="mcustom-select-wrapper">
+                            <div class="mcustom-select">
+                                <div class="mcustom-select__trigger n">
+                                    <div>
+                                         <span class="de"><del>&#8377;162</del></span>
+                <h5 class="badge1">SAVE 29%</h5>
+                                        <h4><span class="pr">&#8377;</span>121<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">annual term</span>
+                                    </div>
+                                    <div class="arrow"></div>
+                                </div>
+                                <div class="mcustom-options">
+                                    <div class="mcustom-option selected" data-value="one">
+									<span class="de"><del>&#8377;145</del></span>
+                <h5 class="badge1">SAVE 29%</h5>
+										<h4 value="8"><span class="pr">&#8377;</span>121<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">annual term</span>
+                                    </div>
+                                  <div class="mcustom-option" data-value="two">
+                                  <span class="de"><del>&#8377;172</del></span>
+                <h5 class="badge1">SAVE 12%</h5>
+										<h4><span class="pr">&#8377;</span>155<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">monthly term</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <ul class="text-center">
+                        <li> &nbsp;&nbsp;Business-class email</li>
+                        <li> &nbsp;&nbsp;<b>50 GB</b> mailbox and <b>1 TB</b> OneDrive cloud storage</li>
+                        <li><img src="../images/outlook.png" alt="" width="25px"/> &nbsp;&nbsp;Web and mobile versions <br>of Office apps</li>
+                        <li> &nbsp;&nbsp;Standard security (Exchange Online Protection)</li>
+						<li id="" style="background-color:black; color:#6cd0c3;"><b>Standard support by Microsoft & ActiveServers</b></li>
+						
+                    </ul>
+                    <div class="panel-footer">
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/microsoft-365/business-basic">Order Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-4 wow zoomIn" data-wow-delay="0.4s">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <h3 class="text-center">BUSINESS STANDARD</h3>
+                    </div>
+                     <div class="panel-body text-center">
+                        <div class="mcustom-select-wrapper">
+                            <div class="mcustom-select">
+                                <div class="mcustom-select__trigger n">
+                                    <div>
+                                         <span class="de"><del>&#8377;770</del></span>
+                <h5 class="badge1">SAVE 31%</h5>
+                                        <h4><span class="pr">&#8377;</span>667<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">annual term</span>
+                                    </div>
+                                    <div class="arrow"></div>
+                                </div>
+                                <div class="mcustom-options">
+                                    <div class="mcustom-option selected" data-value="one">
+									<span class="de"><del>&#8377;770</del></span>
+                <h5 class="badge1">SAVE 31%</h5>
+										<h4 value="8"><span class="pr">&#8377;</span>667<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">annual term</span>
+                                    </div>
+                                  <div class="mcustom-option" data-value="two">
+                                       <span class="de"><del>&#8377;924</del></span>
+                <h5 class="badge1">SAVE 20%</h5>
+										<h4><span class="pr">&#8377;</span>800<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">monthly term</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <ul class="text-center">
+                        <li> &nbsp;&nbsp;Business-class email</li>
+                        <li> &nbsp;&nbsp;<b>50 GB</b> mailbox and <b>1 TB</b> OneDrive cloud storage</li>
+						<li><img src="../images/outlook.png" alt="" width="25px"/> &nbsp;&nbsp;Desktop versions of Office apps with premium features</li>
+                        <li> &nbsp;&nbsp;Standard security (Exchange Online Protection)</li>
+						<li id="" style="background-color:black; color:#6cd0c3;"><b>Standard support by Microsoft & ActiveServers</b></li>
+						
+                    </ul>
+                    <div class="panel-footer">
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/microsoft-365/business-standard">Order Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-4 wow zoomIn" data-wow-delay="0.6s">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <h3 class="text-center">BUSINESS PREMIUM</h3>
+                    </div>
+                      <div class="panel-body text-center">
+                        <div class="mcustom-select-wrapper">
+                            <div class="mcustom-select">
+                                <div class="mcustom-select__trigger n">
+                                    <div>
+                                         <span class="de"><del>&#8377;1830</del></span>
+                <h5 class="badge1">SAVE 26%</h5>
+                                        <h4><span class="pr">&#8377;</span>1500<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">annual term</span>
+                                    </div>
+                                    <div class="arrow"></div>
+                                </div>
+                                <div class="mcustom-options">
+                                    <div class="mcustom-option selected" data-value="one">
+									<span class="de"><del>&#8377;1830</del></span>
+                <h5 class="badge1">SAVE 26%</h5>
+										<h4 value="8"><span class="pr">&#8377;</span>1500<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">annual term</span>
+                                    </div>
+                                  <div class="mcustom-option" data-value="two">
+                                       <span class="de"><del>&#8377;2126</del></span>
+                <h5 class="badge1">SAVE 16%</h5>
+										<h4><span class="pr">&#8377;</span>1850<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">monthly term</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <ul class="text-center">
+                        <li> &nbsp;&nbsp;Business-class email</li>
+                        <li> &nbsp;&nbsp;<b>50 GB</b> mailbox and <b>1 TB</b> OneDrive cloud storage</li>
+						<li><img src="../images/outlook.png" alt="" width="25px"/> &nbsp;&nbsp;Desktop versions of Office apps with premium features</li>
+                        <li> &nbsp;&nbsp;Advanced security (Exchange Online Protection & Defender for Business)</li>
+						<li id="" style="background-color:black; color:#6cd0c3;"><b>Standard support by Microsoft & ActiveServers</b></li>
+					
+                    </ul>
+                    <div class="panel-footer">
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/microsoft-365/business-premium">Order Now</a>
+                    </div>
+                </div>
+            </div>
+
+			
+        </div>
+
+	
+        <div class="row">
+            <div class="col-sm-4 wow zoomIn" data-wow-delay="0.2s">
+                <div class="panel panel-info">
+                     <div class="panel-heading">
+                        <h3 class="text-center">BUSINESS BASIC</h3>
+						
+                    </div>
+                <div class="panel-body text-center">
+                        <div class="mcustom-select-wrapper">
+                            <div class="mcustom-select">
+                                <div class="mcustom-select__trigger n">
+                                    <div>
+                                         <span class="de"><del>&#8377;145</del></span>
+                <h5 class="badge1">SAVE 29%</h5>
+                                        <h4><span class="pr">&#8377;</span>121<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">annual term</span>
+                                    </div>
+                                    <div class="arrow"></div>
+                                </div>
+                                <div class="mcustom-options">
+                                    <div class="mcustom-option selected" data-value="one">
+									<span class="de"><del>&#8377;145</del></span>
+                <h5 class="badge1">SAVE 29%</h5>
+										<h4 value="8"><span class="pr">&#8377;</span>121<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">annual term</span>
+                                    </div>
+                                  <div class="mcustom-option" data-value="two">
+                                  <span class="de"><del>&#8377;172</del></span>
+                <h5 class="badge1">SAVE 12%</h5>
+										<h4><span class="pr">&#8377;</span>155<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">monthly term</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <ul class="text-center">
+                        <li> &nbsp;&nbsp;Business-class email</li>
+                        <li> &nbsp;&nbsp;<b>50 GB</b> mailbox and <b>1 TB</b> OneDrive cloud storage</li>
+                        <li><img src="../images/outlook.png" alt="" width="25px"/> &nbsp;&nbsp;Web and mobile versions <br>of Office apps</li>
+                        <li> &nbsp;&nbsp;Standard security (Exchange Online Protection)</li>
+						<li id="" style="background-color:black; color:#6cd0c3;"><b>Standard support by Microsoft & ActiveServers</b></li>
+						
+                    </ul>
+                    <div class="panel-footer">
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/microsoft-365/business-basic">Order Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-4 wow zoomIn" data-wow-delay="0.4s">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <h3 class="text-center">BUSINESS STANDARD</h3>
+                    </div>
+                     <div class="panel-body text-center">
+                        <div class="mcustom-select-wrapper">
+                            <div class="mcustom-select">
+                                <div class="mcustom-select__trigger n">
+                                    <div>
+                                         <span class="de"><del>&#8377;770</del></span>
+                <h5 class="badge1">SAVE 31%</h5>
+                                        <h4><span class="pr">&#8377;</span>667<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">annual term</span>
+                                    </div>
+                                    <div class="arrow"></div>
+                                </div>
+                                <div class="mcustom-options">
+                                    <div class="mcustom-option selected" data-value="one">
+									<span class="de"><del>&#8377;770</del></span>
+                <h5 class="badge1">SAVE 31%</h5>
+										<h4 value="8"><span class="pr">&#8377;</span>667<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">annual term</span>
+                                    </div>
+                                  <div class="mcustom-option" data-value="two">
+                                       <span class="de"><del>&#8377;924</del></span>
+                <h5 class="badge1">SAVE 20%</h5>
+										<h4><span class="pr">&#8377;</span>800<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">monthly term</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <ul class="text-center">
+                        <li> &nbsp;&nbsp;Business-class email</li>
+                        <li> &nbsp;&nbsp;<b>50 GB</b> mailbox and <b>1 TB</b> OneDrive cloud storage</li>
+						<li><img src="../images/outlook.png" alt="" width="25px"/> &nbsp;&nbsp;Desktop versions of Office apps with premium features</li>
+                        <li> &nbsp;&nbsp;Standard security (Exchange Online Protection)</li>
+						<li id="" style="background-color:black; color:#6cd0c3;"><b>Standard support by Microsoft & ActiveServers</b></li>
+						
+                    </ul>
+                    <div class="panel-footer">
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/microsoft-365/business-standard">Order Now</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-4 wow zoomIn" data-wow-delay="0.6s">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <h3 class="text-center">BUSINESS PREMIUM</h3>
+                    </div>
+                      <div class="panel-body text-center">
+                        <div class="mcustom-select-wrapper">
+                            <div class="mcustom-select">
+                                <div class="mcustom-select__trigger n">
+                                    <div>
+                                         <span class="de"><del>&#8377;1830</del></span>
+                <h5 class="badge1">SAVE 26%</h5>
+                                        <h4><span class="pr">&#8377;</span>1500<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">annual term</span>
+                                    </div>
+                                    <div class="arrow"></div>
+                                </div>
+                                <div class="mcustom-options">
+                                    <div class="mcustom-option selected" data-value="one">
+									<span class="de"><del>&#8377;1830</del></span>
+                <h5 class="badge1">SAVE 26%</h5>
+										<h4 value="8"><span class="pr">&#8377;</span>1500<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">annual term</span>
+                                    </div>
+                                  <div class="mcustom-option" data-value="two">
+                                       <span class="de"><del>&#8377;2126</del></span>
+                <h5 class="badge1">SAVE 16%</h5>
+										<h4><span class="pr">&#8377;</span>1850<span class="prsu">/user/mo</span></h4>
+                                        <span class="per">monthly term</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <ul class="text-center">
+                        <li> &nbsp;&nbsp;Business-class email</li>
+                        <li> &nbsp;&nbsp;<b>50 GB</b> mailbox and <b>1 TB</b> OneDrive cloud storage</li>
+						<li><img src="../images/outlook.png" alt="" width="25px"/> &nbsp;&nbsp;Desktop versions of Office apps with premium features</li>
+                        <li> &nbsp;&nbsp;Advanced security (Exchange Online Protection & Defender for Business)</li>
+						<li id="" style="background-color:black; color:#6cd0c3;"><b>Standard support by Microsoft & ActiveServers</b></li>
+					
+                    </ul>
+                    <div class="panel-footer">
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/microsoft-365/business-premium">Order Now</a>
+                    </div>
+                </div>
+            </div>
+
+			
+        </div>
+		<br>
+		<div class="row text-left">
+            <div class="col-sm-12">
+                <div class="wow fadeInLeft" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInLeft;">
+                     <p>
+                     Business Basic, Business Standard and Business Premium plans can be purchased for a maximum of 300 users. There is no minimum or maximum user limit for Enterprise plans.
+			      </p>
+                </div>
+            </div>
+			</div>
+			
+		<br><br>
+		 <div class="ques1">
+		<h2 class="ques2 white">Have Questions? <a href="tel:+91 9359426804">Call us</a> or <a href="javascript:void(Tawk_API.toggle())">Chat Now</a>.</h2><br>
+		 </div>
+    </section>
+    <!--  with teams End of Pricing Tables -->
 	
 	
 	
