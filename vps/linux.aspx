@@ -181,7 +181,7 @@
 			<div class="col-sm-3 wow zoomIn" data-wow-delay="0.2s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
-                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/store/linux-vps/new-linux-vps-1"></script></h3>
+                        <h3 class="text-center">Linux VPS 1</h3>
 						
                     </div>
                     <div class="panel-body text-center">
@@ -209,7 +209,7 @@
 			<div class="col-sm-3 wow zoomIn" data-wow-delay="0.2s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
-                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/store/linux-vps/new-linux-vps-2"></script></h3>
+                        <h3 class="text-center">Linux VPS 2</h3>
                     </div>
                     <div class="panel-body text-center">
                         <h4>₹330</h4>
@@ -233,7 +233,7 @@
            <div class="col-sm-3 wow zoomIn" data-wow-delay="0.2s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
-                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/store/linux-vps/new-linux-vps-3"></script></h3>
+                        <h3 class="text-center">Linux VPS 3</h3>
                     </div>
                     <div class="panel-body text-center">
                         <h4>₹400</h4>
@@ -257,7 +257,7 @@
             <div class="col-sm-3 wow zoomIn" data-wow-delay="0.4s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
-                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/store/linux-vps/new-linux-vps-4"></script></h3>
+                        <h3 class="text-center">Linux VPS 4</h3>
                     </div>
                     <div class="panel-body text-center">
                         <h4>₹500</h4>
@@ -288,7 +288,7 @@
 			<div class="col-sm-3 wow zoomIn" data-wow-delay="0.2s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
-                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/store/linux-vps/new-linux-vps-5"></script></h3>
+                        <h3 class="text-center">Linux VPS 5</h3>
                     </div>
                     <div class="panel-body text-center">
                         <h4>₹600</h4>
@@ -314,7 +314,7 @@
             <div class="col-sm-3 wow zoomIn" data-wow-delay="0.2s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
-                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/store/linux-vps/new-linux-vps-6"></script></h3>
+                        <h3 class="text-center">Linux VPS 6</h3>
                     </div>
                     <div class="panel-body text-center">
                         <h4>₹700</h4>
@@ -339,7 +339,7 @@
             <div class="col-sm-3 wow zoomIn" data-wow-delay="0.4s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
-                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/store/linux-vps/new-linux-vps-7"></script></h3>
+                        <h3 class="text-center">Linux VPS 7</h3>
                     </div>
                     <div class="panel-body text-center">
                         <h4>₹750</h4>
@@ -363,7 +363,7 @@
             <div class="col-sm-3 wow zoomIn" data-wow-delay="0.6s">
                 <div class="panel panel-info">
                     <div class="panel-heading">
-                        <h3 class="text-center"><script language="javascript" src="https://clients.activeservers.in/feeds/productsinfo.php?pid=44&amp;get=name"></script></h3>
+                        <h3 class="text-center">Linux VPS 8</h3>
                     </div>
                     <div class="panel-body text-center">
                         <h4>₹11500</h4>
