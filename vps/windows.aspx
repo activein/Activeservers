@@ -231,7 +231,7 @@
                         <h3 class="text-center">Windows VPS 3</h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹3000</h4>
+                        <h4>₹700</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
@@ -254,7 +254,7 @@
                         <h3 class="text-center">Windows VPS 4</h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>1000</h4>
+                        <h4>₹1000</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
@@ -300,7 +300,7 @@
                         <h3 class="text-center">Windows VPS 6</h3>
                     </div>
                     <div class="panel-body text-center">
-                        <h4>₹1100</h4>
+                        <h4>₹1300</h4>
                         <span class="per">PER MONTH</span>
                     </div>
                     <ul class="text-center">
@@ -335,7 +335,7 @@
                         <li>Full Admin Access </li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=confproduct&i=1">ORDER NOW</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/windows-vps/windows-vps7">ORDER NOW</a>
                     </div>
                 </div>
             </div>
@@ -358,7 +358,7 @@
                         <li>Full Admin Access </li>
                     </ul>
                     <div class="panel-footer">
-                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/cart.php?a=confproduct&i=2">ORDER NOW</a>
+                        <a class="btn btn-lg btn-pricetable" href="https://clients.activeservers.in/store/windows-vps/windows-vps8">ORDER NOW</a>
                     </div>
                 </div>
             </div>
